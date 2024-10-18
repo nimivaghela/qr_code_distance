@@ -1,6 +1,7 @@
 # qr_code_distance
-![No QR code found](screen_shots/image_no_qr_found.jpg)
-![With distance](screen_shots/image_with_distance.jpg)
+<img src="screen_shots/image_no_qr_found.jpg" alt="No QR code found" width="300" height="200">
+
+<img src="screen_shots/image_with_distance.jpg" alt="With distance" width="300" height="200">
 
 # QR Code Distance Detection App
 
