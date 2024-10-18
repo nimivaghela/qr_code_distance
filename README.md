@@ -1,5 +1,6 @@
 ## No QR code found image reference
 <img src="screen_shots/image_no_qr_found.jpg" alt="No QR code found" width="300" height="400">
+
 ## With distance image reference
 <img src="screen_shots/image_with_distance.jpg" alt="With distance" width="300" height="400">
 
