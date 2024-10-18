@@ -50,7 +50,7 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 
-//    implementation("com.google.ar:core:1.31.0")
+
     implementation("com.google.mlkit:barcode-scanning:17.0.2")
 
     // CameraX dependencies
