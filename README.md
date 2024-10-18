@@ -1,9 +1,3 @@
-## No QR code found image reference
-<img src="screen_shots/image_no_qr_found.jpg" alt="No QR code found" width="300" height="400">
-
-## With distance image reference
-<img src="screen_shots/image_with_distance.jpg" alt="With distance" width="300" height="400">
-
 # QR Code Distance Detection App
 
 ## Project Description
@@ -14,6 +8,14 @@ This app is designed to detect QR codes using the device's camera and calculate 
 - Detects QR codes using the device's camera.
 - Calculates the distance between the real device camera and the QR code.
 - Default QR code size: **50 mm**.
+
+## No QR code found image reference
+<img src="screen_shots/image_no_qr_found.jpg" alt="No QR code found" width="300" height="400">
+
+## With distance image reference
+<img src="screen_shots/image_with_distance.jpg" alt="With distance" width="300" height="400">
+
+
 
 ## System Requirements
 
